@@ -1,0 +1,9 @@
+{
+  "id": "roleforge",
+  "name": "RoleForge",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Multi-character AI roleplay inside your notes: an AI director picks who speaks, characters react to each other turn by turn.",
+  "author": "Joni",
+  "isDesktopOnly": false
+}

@@ -1,0 +1,9 @@
+.rf-modal textarea.rf-line-input { width: 100%; resize: vertical; font-family: var(--font-text); }
+.rf-cast-label { margin: 12px 0 6px; color: var(--text-muted); font-size: var(--font-ui-smaller); }
+.rf-cast { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 8px; }
+.rf-chip { border-radius: 999px; }
+.rf-chip.is-on { background: var(--interactive-accent); color: var(--text-on-accent); }
+.rf-status { cursor: pointer; color: var(--text-accent); }
+details.rf-prompt { margin: 8px 0; padding: 6px 10px; border: 1px solid var(--background-modifier-border); border-radius: 6px; }
+details.rf-prompt summary { cursor: pointer; font-weight: 600; }
+textarea.rf-prompt-area { width: 100%; margin: 8px 0; font-family: var(--font-monospace); font-size: 12px; }
